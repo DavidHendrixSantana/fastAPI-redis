@@ -1,4 +1,4 @@
-# fastAPI-redis
+# Demo register and payment for products with fastAPI|redis
 This project was deployed with python 3.10.11
 1.- Install the libraries for that are inside of the file requirements.txt.
 
